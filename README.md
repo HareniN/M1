@@ -10,11 +10,11 @@ Write a C program to read 3 characters one by one and print the characters in a 
 4.	End the program.
 
 ## PROGRAM:
+![Screenshot 2025-04-26 024051](https://github.com/user-attachments/assets/5242a58e-4609-4a35-8d7b-fe19369b01bc)
+
 
 ## OUTPUT:
-
-
-
+![Screenshot 2025-04-26 024127](https://github.com/user-attachments/assets/f917491e-86b6-4a55-ad65-af8a27323b73)
 
 
 
@@ -46,11 +46,11 @@ Write a C program to read A values and check whether A is positive number or not
 6.End the program.
 
 # PROGRAM:
+![Screenshot 2025-04-26 030829](https://github.com/user-attachments/assets/9700f65c-779b-4392-9faf-f38a26d21d23)
 
 # OUTPUT:
 
-
-
+![Screenshot 2025-04-26 030845](https://github.com/user-attachments/assets/89bf38ec-7f41-4dd6-80f8-3fd2a3530125)
 
 
 
@@ -80,9 +80,11 @@ Write a program to find minimum between two fraction numbers using conditional o
 7.	Print the minimum value.
 
 ## PROGRAM:
+![Screenshot 2025-04-26 031832](https://github.com/user-attachments/assets/2c1f15d8-321c-4383-90cf-ab4b8a9fdfe8)
 
 ## OUTPUT:
 
+![Screenshot 2025-04-26 031843](https://github.com/user-attachments/assets/dc54e646-8d4d-4c71-9c88-9c623e40d2be)
 
 
 
@@ -111,10 +113,11 @@ Write a C program to check whether the input value is equal to 1 using simple if
 6.	End the program.
 
 ## PROGRAM:
+![Screenshot 2025-04-26 032139](https://github.com/user-attachments/assets/202d166b-54af-4c20-87cc-e8604ec6cbd3)
 
 ## OUTPUT:
 
-
+![Screenshot 2025-04-26 032149](https://github.com/user-attachments/assets/01d788c7-3671-4eb5-b619-d16b737c790c)
 
 
 
@@ -147,8 +150,11 @@ c.	Else if percentage >= 36: Print “Division = Pass”
 9.	Else: Print “Division = Fail”
 10.	End
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/ec5377ca-4760-47bb-af6b-e73a998b0caf)
+
 
 ## OUTPUT:
+![Screenshot 2025-04-26 032614](https://github.com/user-attachments/assets/05bf2aeb-4175-4f28-9042-2d607e484334)
 
 ## RESULT:
 The program successfully takes three subject marks, calculates the total and percentage, and correctly determines the division based on predefined grading logic.
